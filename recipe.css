@@ -6,7 +6,6 @@ body {
     background-color: #8BA1BB;
     font-family: Arial;
     margin: 0;
-    overflow: visible;
 }
 
 div.content{
@@ -39,6 +38,7 @@ p.description {
 div.category {
     margin-bottom: 0px;
     margin-top: 0px;
+    overflow: visible;
 }
 
 p.category {
@@ -110,6 +110,7 @@ div.col1 {
     width: 35%; 
     display: inline-block;
     margin-right: 5%;
+    margin-bottom: 20px;
 }
 
 div.col2 {
